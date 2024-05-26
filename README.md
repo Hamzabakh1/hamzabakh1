@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Hamza Bakh</h1>
 <h3 align="center">A passionate computer engineering student with a love for coding and problem-solving.</h3>
 
+### What I Do:
+- **Software Development**: Crafting clean and efficient code is my forte. I enjoy building web applications, solving algorithmic puzzles, and diving into data science projects.
+- **Web Development**: HTML, CSS, and JavaScript are my building blocks. I've worked with Angular, React.js, and Next.js to create dynamic and user-friendly interfaces.
+- **Data Enthusiast**: I analyze data using Python (NumPy, Pandas, Matplotlib, Scikit-learn) and visualize insights with Power BI.
+- **Database Management**: SQL, MongoDB, and MySQL are my trusted companions.
+- **Big Data Curious**: I've explored Hadoop (HDFS, Sqoop) and dabbled in real-time processing with Apache Spark.
+- **Version Control**: Git keeps my code organized.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hamza-bakh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hamza-bakh/" height="30" width="40" /></a>
