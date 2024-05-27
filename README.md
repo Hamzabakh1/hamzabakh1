@@ -3,14 +3,14 @@
 
 ### What I Do:
 
--**Software Development**: Crafting clean and efficient code is my forte. I enjoy building web applications, solving algorithmic puzzles, and diving into data science projects.
--**Web Development**: HTML, CSS, JavaScript, and PHP are my building blocks. I've worked with frameworks like Angular, React.js, Next.js, Laravel, Django, and Flask to create dynamic and user-friendly interfaces.
--**Data Science**: I analyze data using Python (NumPy, Pandas, Matplotlib, Scikit-learn) and visualize insights with Power BI. I develop machine learning models and perform sentiment analysis.
--**Database Management**: SQL, MongoDB, and MySQL are my trusted companions. I design and manage efficient database systems.
--**Big Data**: I've explored Hadoop (HDFS, Sqoop), Hive, Pig, Cassandra, and dabbled in real-time processing with Apache Spark and Kafka.
--**System Administration**: Proficient in Linux and Windows Server environments, with skills in shell scripting, Docker, Kubernetes, and Ansible.
--**Project Management**: Familiar with tools like JIRA and Trello to manage projects efficiently using Agile methodologies.
--**Version Control**: Git keeps my code organized and allows seamless collaboration.
+-**Software Development**: Crafting clean and efficient code is my forte. I enjoy building web applications, solving algorithmic puzzles, and diving into data science projects.<br>
+-**Web Development**: HTML, CSS, JavaScript, and PHP are my building blocks. I've worked with frameworks like Angular, React.js, Next.js, Laravel, Django, and Flask to create dynamic and user-friendly interfaces.<br>
+-**Data Science**: I analyze data using Python (NumPy, Pandas, Matplotlib, Scikit-learn) and visualize insights with Power BI. I develop machine learning models and perform sentiment analysis.<br>
+-**Database Management**: SQL, MongoDB, and MySQL are my trusted companions. I design and manage efficient database systems.<br>
+-**Big Data**: I've explored Hadoop (HDFS, Sqoop), Hive, Pig, Cassandra, and dabbled in real-time processing with Apache Spark and Kafka.<br>
+-**System Administration**: Proficient in Linux and Windows Server environments, with skills in shell scripting, Docker, Kubernetes, and Ansible.<br>
+-**Project Management**: Familiar with tools like JIRA and Trello to manage projects efficiently using Agile methodologies.<br>
+-**Version Control**: Git keeps my code organized and allows seamless collaboration.<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
