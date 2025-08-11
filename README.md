@@ -1,7 +1,4 @@
 <!-- Banner / Header -->
-<p align="center">
-  <img src="https://i.imgur.com/Z7bJQZy.png" alt="Hamza Bakh Banner" width="100%" />
-</p>
 
 <h1 align="center">Hi, I'm Hamza Bakh 👋</h1>
 <h3 align="center">Data Engineer • Big Data & AI • Multi-Tenant BI Architect</h3>
