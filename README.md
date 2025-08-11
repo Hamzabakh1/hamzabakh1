@@ -73,11 +73,7 @@ scikit-learn, TensorFlow, PyTorch, Keras, Pandas, NumPy, OpenCV
 📧 **Email:** hamza.bakh@domain.com  
 📂 **Portfolio:** [hamza-portfolio.com](#)  
 
----
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Hamzabakh1&icon=0&color=0" alt="Visitor Count"/>
-</p>
 
 ---
 
