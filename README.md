@@ -1,104 +1,124 @@
 <h1 align="center">Hi, I'm Hamza Bakh 👋</h1>
 
 <h3 align="center">
-Data Engineer • Big Data • Business Intelligence • Cloud Analytics
+Data Engineer | Building Scalable Data Platforms (Snowflake, dbt, Prefect) | BI & Embedded Analytics
 </h3>
 
 <p align="center">
-Transforming raw data into scalable analytics systems and business intelligence.
+Designing and deploying end-to-end data platforms that transform raw data into reliable, scalable, and actionable insights.
 </p>
 
 ---
 
 # 🚀 About Me
 
-I am a **Data Engineer specialized in Big Data, Cloud Analytics, and Business Intelligence**, with experience building **end-to-end data platforms** that support data-driven decision making.
+I am a **Data Engineer specialized in building scalable data platforms and analytics systems**, with hands-on experience designing **end-to-end pipelines, cloud data architectures, and embedded BI solutions**.
 
-My work focuses on **designing robust data pipelines, scalable data architectures, and advanced analytics dashboards** for operational and strategic insights.
+I focus on bridging **data engineering and analytics**, enabling organizations to move from raw data to **production-ready insights and decision systems**.
 
 📍 Based in Morocco  
-🌍 Open to international opportunities and remote collaboration
+🌍 Open to international and remote opportunities  
 
 ---
 
 # 🎯 Core Expertise
 
-- **Data Engineering**  
-  ETL / ELT pipelines, data ingestion, transformation and validation
+- **Data Engineering**
+  - ETL / ELT pipeline design and orchestration
+  - Multi-source data ingestion and transformation
+  - Data validation and quality monitoring
 
-- **Cloud Data Platforms**  
-  Lakehouse architectures and cloud-native data infrastructure
+- **Cloud Data Platforms**
+  - Lakehouse and warehouse architectures
+  - Scalable and modular data infrastructure
 
-- **Business Intelligence**  
-  Development of advanced analytical dashboards and KPI monitoring systems
+- **Analytics Engineering**
+  - Data modeling and transformation (dbt)
+  - KPI-driven datasets for BI consumption
 
-- **Data Architecture**  
-  Data warehouse modeling, governance, and performance optimization
+- **Business Intelligence**
+  - Interactive dashboards and reporting systems
+  - Embedded analytics for SaaS environments
+
+---
+
+# ⚙️ Data Engineering Practices
+
+- Pipeline orchestration using **Prefect** (scheduling, retries, monitoring)
+- Data transformation and testing using **dbt (models, lineage, validation)**
+- Data quality enforcement with **SQL validation rules**
+- Containerization with **Docker**
+- Version control and collaboration via **Git workflows**
+- Agile delivery using **Scrum methodologies and Jira**
 
 ---
 
 # 🏢 Professional Experience
 
-## Data & BI Consultant
+## Data & BI Consultant  
 **AgrupaMarca — Agadir**
 
-- Delivered financial and agricultural datasets for operational analytics
-- Designed **Power BI dashboards for strategic KPI monitoring**
-- Performed **data transformation, modeling, and validation using Python and SQL**
-- Managed project tracking and reporting using **Agile methodologies and Jira**
+- Delivered **financial and agricultural analytics datasets** supporting operational decision-making
+- Designed and deployed **Power BI dashboards for KPI monitoring**
+- Built data transformation pipelines using **Python and SQL**
+- Improved reporting workflows by automating data preparation processes
+- Collaborated in Agile environments using **Jira**
 
 ---
 
-## Data Engineer — Final Year Project
+## Data Engineer — Final Year Project  
 **Agridata Consulting**
 
-- Designed **ETL/ELT pipelines for multi-source data ingestion**
-- Implemented **Data Lake and Data Warehouse architecture**
-- Built analytics dashboards using **Power BI and Metabase Embedded**
-- Implemented **SQL validation rules and data quality monitoring**
-- Worked within **Agile sprints and cross-functional teams**
+- Designed and implemented **ETL/ELT pipelines for multi-source data ingestion**
+- Built a **multi-layer data architecture (Data Lake → Data Warehouse → BI)**
+- Developed analytics dashboards using **Power BI and Metabase Embedded**
+- Implemented **data validation rules and quality monitoring processes**
+- Contributed to **multi-tenant analytics system design**
 
 ---
 
-## BI & Data Analyst Intern
+## BI & Data Analyst Intern  
 **Agridata Consulting**
 
-- Translated business needs into **analytical datasets**
-- Developed **interactive Power BI dashboards**
-- Automated repetitive **data transformation tasks using Python**
-- Implemented data preparation pipelines across multiple sources
+- Translated business requirements into **analytical datasets**
+- Developed **interactive dashboards using Power BI**
+- Automated repetitive workflows using **Python**
+- Built data preparation pipelines across multiple sources
 
 ---
 
-# 📌 Key Projects
+# 📌 Key Systems & Projects
 
-## Embedded BI Analytics Platform
+## 🧠 Multi-Tenant Data Platform for Embedded Analytics
 
-Design of a **multi-tenant analytics solution** integrating data pipelines and dashboards for SaaS environments.
+Design and implementation of a **scalable data platform** enabling embedded analytics in SaaS environments.
 
-**Technologies**
+### Architecture
+- Data ingestion from multiple client sources
+- Transformation layer using **dbt**
+- Storage in **Snowflake data warehouse**
+- Orchestration using **Prefect**
+- Visualization via **Metabase Embedded**
 
-- Snowflake
-- dbt
-- Prefect
-- Metabase Embedded
-- SQL
+### Key Features
+- Multi-tenant data isolation
+- Custom filtering logic per client
+- Scalable and modular pipeline design
+- Data quality validation layer
 
 ---
 
-## Automated Data Extraction Pipeline
+## 🔄 Automated Data Extraction & Processing Pipeline
 
-Development of a **data pipeline transforming unstructured information into structured datasets**.
+Development of a pipeline transforming **unstructured data into structured datasets**.
 
-Pipeline stages:
-
+### Pipeline Flow
 1. Data extraction  
-2. Cleaning and transformation  
+2. Data cleaning and transformation  
 3. Database integration  
-4. Analytics visualization
+4. Analytics visualization  
 
-**Technologies**
-
+### Technologies
 - Python
 - Pandas
 - OpenCV
@@ -106,16 +126,15 @@ Pipeline stages:
 
 ---
 
-## Machine Learning Analytics Experiments
+## 📊 Machine Learning Analytics Experiments
 
-Implementation of machine learning workflows for:
+Implementation of analytical workflows for:
 
-- classification
-- predictive analytics
-- exploratory data analysis
+- Classification models  
+- Predictive analytics  
+- Exploratory data analysis  
 
-**Technologies**
-
+### Technologies
 - Python
 - scikit-learn
 - Pandas
@@ -126,49 +145,19 @@ Implementation of machine learning workflows for:
 # 🛠 Technology Stack
 
 ## Programming
-
-Python  
-SQL  
-C / C++  
-Java  
-JavaScript  
-
----
+Python • SQL • C/C++ • Java • JavaScript  
 
 ## Data Engineering
-
-Apache Spark  
-Databricks  
-dbt  
-ETL / ELT pipelines  
-Data Modeling  
-
----
+Apache Spark • Databricks • dbt • ETL / ELT • Data Modeling  
 
 ## Databases
-
-Snowflake  
-SQL Server  
-PostgreSQL  
-MySQL  
-MongoDB  
-
----
+Snowflake • SQL Server • PostgreSQL • MySQL • MongoDB  
 
 ## Business Intelligence
-
-Power BI  
-Metabase Embedded  
-Tableau  
-Excel Advanced  
-
----
+Power BI • Metabase Embedded • Tableau • Excel  
 
 ## Cloud & Infrastructure
-
-Microsoft Azure  
-BigQuery  
-Docker  
+Microsoft Azure • BigQuery • Docker  
 
 ---
 
@@ -207,5 +196,5 @@ Docker
 ---
 
 <p align="center">
-💡 “Data becomes powerful when transformed into insight.”
+💡 “Data becomes valuable when it is reliable, scalable, and actionable.”
 </p>
