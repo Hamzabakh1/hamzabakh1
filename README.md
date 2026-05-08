@@ -2,7 +2,6 @@
 
 <svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="HB Logo">
   <rect width="60" height="60" rx="12" fill="#0f3638"/>
-  <text x="50%" y="56%" dominant-baseline="middle" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="700" fill="#4f98a3">HB</text>
 </svg>
 
 <h1>Hamza Bakh</h1>
