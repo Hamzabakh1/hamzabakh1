@@ -1,11 +1,5 @@
 <div align="center">
 
-<img src="./assets/hero-banner.svg" alt="Hamza Bakh — Data Engineer" width="100%" />
-
-<br />
-
-<img src="./assets/hb-logo.svg" alt="Hamza Bakh Logo" width="92" />
-
 # Hamza Bakh
 
 ### Data Engineer · Analytics Engineering · BI & AI Systems
