@@ -1,0 +1,87 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Multi-Tenant Data Platform Architecture</title>
+  <desc id="desc">Architecture diagram showing SQL Server, Python ingestion, Snowflake, dbt, Prefect, and Metabase embedded analytics.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="box" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#38BDF8"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="520" rx="28" fill="url(#bg)"/>
+  <text x="60" y="70" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial" font-size="34" font-weight="800">Multi-Tenant Data Platform Architecture</text>
+  <text x="60" y="105" fill="#94A3B8" font-family="Inter, Segoe UI, Arial" font-size="17">From operational sources to governed analytics and embedded BI consumption.</text>
+
+  <g font-family="Inter, Segoe UI, Arial">
+    <g transform="translate(60 175)">
+      <rect width="150" height="96" rx="18" fill="url(#box)" stroke="#334155"/>
+      <text x="75" y="38" text-anchor="middle" fill="#E2E8F0" font-size="17" font-weight="700">SQL Server</text>
+      <text x="75" y="64" text-anchor="middle" fill="#94A3B8" font-size="13">Client Sources</text>
+    </g>
+
+    <g transform="translate(260 175)">
+      <rect width="150" height="96" rx="18" fill="url(#box)" stroke="#38BDF8"/>
+      <text x="75" y="38" text-anchor="middle" fill="#E0F2FE" font-size="17" font-weight="700">Python</text>
+      <text x="75" y="64" text-anchor="middle" fill="#94A3B8" font-size="13">Ingestion</text>
+    </g>
+
+    <g transform="translate(460 175)">
+      <rect width="150" height="96" rx="18" fill="url(#box)" stroke="#38BDF8"/>
+      <text x="75" y="38" text-anchor="middle" fill="#E0F2FE" font-size="17" font-weight="700">Snowflake</text>
+      <text x="75" y="64" text-anchor="middle" fill="#94A3B8" font-size="13">Warehouse</text>
+    </g>
+
+    <g transform="translate(660 175)">
+      <rect width="150" height="96" rx="18" fill="url(#box)" stroke="#FF694B"/>
+      <text x="75" y="38" text-anchor="middle" fill="#FFE4E6" font-size="17" font-weight="700">dbt</text>
+      <text x="75" y="64" text-anchor="middle" fill="#94A3B8" font-size="13">Models & Tests</text>
+    </g>
+
+    <g transform="translate(860 175)">
+      <rect width="150" height="96" rx="18" fill="url(#box)" stroke="#22C55E"/>
+      <text x="75" y="38" text-anchor="middle" fill="#DCFCE7" font-size="17" font-weight="700">Prefect</text>
+      <text x="75" y="64" text-anchor="middle" fill="#94A3B8" font-size="13">Orchestration</text>
+    </g>
+
+    <g transform="translate(1060 175)">
+      <rect width="110" height="96" rx="18" fill="url(#box)" stroke="#22C55E"/>
+      <text x="55" y="38" text-anchor="middle" fill="#DCFCE7" font-size="17" font-weight="700">Metabase</text>
+      <text x="55" y="64" text-anchor="middle" fill="#94A3B8" font-size="13">Embedded BI</text>
+    </g>
+  </g>
+
+  <path d="M210 223H255" stroke="#38BDF8" stroke-width="3" marker-end="url(#arrow)"/>
+  <path d="M410 223H455" stroke="#38BDF8" stroke-width="3" marker-end="url(#arrow)"/>
+  <path d="M610 223H655" stroke="#38BDF8" stroke-width="3" marker-end="url(#arrow)"/>
+  <path d="M810 223H855" stroke="#38BDF8" stroke-width="3" marker-end="url(#arrow)"/>
+  <path d="M1010 223H1055" stroke="#38BDF8" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <g font-family="Inter, Segoe UI, Arial">
+    <g transform="translate(120 350)">
+      <rect width="220" height="82" rx="18" fill="#020617" stroke="#1E293B"/>
+      <text x="110" y="34" text-anchor="middle" fill="#F8FAFC" font-size="16" font-weight="700">Tenant Isolation</text>
+      <text x="110" y="58" text-anchor="middle" fill="#94A3B8" font-size="13">Client-based filtering logic</text>
+    </g>
+    <g transform="translate(390 350)">
+      <rect width="220" height="82" rx="18" fill="#020617" stroke="#1E293B"/>
+      <text x="110" y="34" text-anchor="middle" fill="#F8FAFC" font-size="16" font-weight="700">Data Quality</text>
+      <text x="110" y="58" text-anchor="middle" fill="#94A3B8" font-size="13">Tests, validation, checks</text>
+    </g>
+    <g transform="translate(660 350)">
+      <rect width="220" height="82" rx="18" fill="#020617" stroke="#1E293B"/>
+      <text x="110" y="34" text-anchor="middle" fill="#F8FAFC" font-size="16" font-weight="700">Observability</text>
+      <text x="110" y="58" text-anchor="middle" fill="#94A3B8" font-size="13">Retries, logs, monitoring</text>
+    </g>
+    <g transform="translate(930 350)">
+      <rect width="220" height="82" rx="18" fill="#020617" stroke="#1E293B"/>
+      <text x="110" y="34" text-anchor="middle" fill="#F8FAFC" font-size="16" font-weight="700">Decision Layer</text>
+      <text x="110" y="58" text-anchor="middle" fill="#94A3B8" font-size="13">Dashboards and data products</text>
+    </g>
+  </g>
+</svg>

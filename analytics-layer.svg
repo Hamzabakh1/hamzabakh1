@@ -1,0 +1,54 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Financial and Agricultural BI Analytics Layer</title>
+  <desc id="desc">Diagram showing sources, preparation, semantic modeling, and KPI dashboards for BI.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#22C55E"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+  <text x="60" y="70" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial" font-size="32" font-weight="800">Financial & Agricultural BI Suite</text>
+  <text x="60" y="105" fill="#94A3B8" font-family="Inter, Segoe UI, Arial" font-size="17">Operational sources transformed into business-ready KPI dashboards.</text>
+
+  <g font-family="Inter, Segoe UI, Arial">
+    <g transform="translate(70 170)">
+      <rect width="185" height="92" rx="18" fill="#020617" stroke="#334155"/>
+      <text x="92.5" y="38" text-anchor="middle" fill="#E2E8F0" font-size="16" font-weight="700">SQL Server</text>
+      <text x="92.5" y="62" text-anchor="middle" fill="#94A3B8" font-size="13">Operational data</text>
+    </g>
+    <g transform="translate(310 170)">
+      <rect width="185" height="92" rx="18" fill="#020617" stroke="#38BDF8"/>
+      <text x="92.5" y="38" text-anchor="middle" fill="#E0F2FE" font-size="16" font-weight="700">Python / SQL</text>
+      <text x="92.5" y="62" text-anchor="middle" fill="#94A3B8" font-size="13">Preparation</text>
+    </g>
+    <g transform="translate(550 170)">
+      <rect width="185" height="92" rx="18" fill="#020617" stroke="#F2C811"/>
+      <text x="92.5" y="38" text-anchor="middle" fill="#FEF9C3" font-size="16" font-weight="700">Power Query</text>
+      <text x="92.5" y="62" text-anchor="middle" fill="#94A3B8" font-size="13">Transformation</text>
+    </g>
+    <g transform="translate(790 170)">
+      <rect width="185" height="92" rx="18" fill="#020617" stroke="#F2C811"/>
+      <text x="92.5" y="38" text-anchor="middle" fill="#FEF9C3" font-size="16" font-weight="700">Semantic Model</text>
+      <text x="92.5" y="62" text-anchor="middle" fill="#94A3B8" font-size="13">DAX + measures</text>
+    </g>
+    <g transform="translate(1030 170)">
+      <rect width="120" height="92" rx="18" fill="#020617" stroke="#22C55E"/>
+      <text x="60" y="38" text-anchor="middle" fill="#DCFCE7" font-size="16" font-weight="700">Dashboards</text>
+      <text x="60" y="62" text-anchor="middle" fill="#94A3B8" font-size="13">KPIs</text>
+    </g>
+  </g>
+
+  <path d="M255 216H305" stroke="#22C55E" stroke-width="3" marker-end="url(#arrow)"/>
+  <path d="M495 216H545" stroke="#22C55E" stroke-width="3" marker-end="url(#arrow)"/>
+  <path d="M735 216H785" stroke="#22C55E" stroke-width="3" marker-end="url(#arrow)"/>
+  <path d="M975 216H1025" stroke="#22C55E" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <g font-family="Inter, Segoe UI, Arial" font-size="14">
+    <rect x="180" y="315" width="840" height="52" rx="18" fill="#052E16" stroke="#22C55E" opacity="0.9"/>
+    <text x="600" y="347" text-anchor="middle" fill="#DCFCE7" font-weight="700">Production · Cost · Stock · Finance · Operations · Performance Monitoring</text>
+  </g>
+</svg>

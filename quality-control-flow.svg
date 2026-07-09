@@ -1,0 +1,66 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Quality Control Analytics Flow</title>
+  <desc id="desc">Quality control workflow from production to client delivery with analytics checkpoints.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#38BDF8"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+  <text x="60" y="70" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial" font-size="32" font-weight="800">Quality Control Analytics & Reporting System</text>
+  <text x="60" y="105" fill="#94A3B8" font-family="Inter, Segoe UI, Arial" font-size="17">Monitoring conformity, defects, grading, packing quality, and export readiness.</text>
+
+  <g font-family="Inter, Segoe UI, Arial">
+    <g transform="translate(50 178)">
+      <rect width="135" height="84" rx="17" fill="#020617" stroke="#334155"/>
+      <text x="67.5" y="36" text-anchor="middle" fill="#E2E8F0" font-size="15" font-weight="700">Production</text>
+      <text x="67.5" y="58" text-anchor="middle" fill="#94A3B8" font-size="12">Farm data</text>
+    </g>
+    <g transform="translate(220 178)">
+      <rect width="135" height="84" rx="17" fill="#020617" stroke="#38BDF8"/>
+      <text x="67.5" y="36" text-anchor="middle" fill="#E0F2FE" font-size="15" font-weight="700">Harvest</text>
+      <text x="67.5" y="58" text-anchor="middle" fill="#94A3B8" font-size="12">Batch tracking</text>
+    </g>
+    <g transform="translate(390 178)">
+      <rect width="135" height="84" rx="17" fill="#020617" stroke="#38BDF8"/>
+      <text x="67.5" y="36" text-anchor="middle" fill="#E0F2FE" font-size="15" font-weight="700">Packing</text>
+      <text x="67.5" y="58" text-anchor="middle" fill="#94A3B8" font-size="12">Line control</text>
+    </g>
+    <g transform="translate(560 178)">
+      <rect width="135" height="84" rx="17" fill="#020617" stroke="#22C55E"/>
+      <text x="67.5" y="36" text-anchor="middle" fill="#DCFCE7" font-size="15" font-weight="700">Quality</text>
+      <text x="67.5" y="58" text-anchor="middle" fill="#94A3B8" font-size="12">Defects</text>
+    </g>
+    <g transform="translate(730 178)">
+      <rect width="135" height="84" rx="17" fill="#020617" stroke="#22C55E"/>
+      <text x="67.5" y="36" text-anchor="middle" fill="#DCFCE7" font-size="15" font-weight="700">Stock</text>
+      <text x="67.5" y="58" text-anchor="middle" fill="#94A3B8" font-size="12">Availability</text>
+    </g>
+    <g transform="translate(900 178)">
+      <rect width="135" height="84" rx="17" fill="#020617" stroke="#F59E0B"/>
+      <text x="67.5" y="36" text-anchor="middle" fill="#FEF3C7" font-size="15" font-weight="700">Export</text>
+      <text x="67.5" y="58" text-anchor="middle" fill="#94A3B8" font-size="12">Readiness</text>
+    </g>
+    <g transform="translate(1070 178)">
+      <rect width="90" height="84" rx="17" fill="#020617" stroke="#F59E0B"/>
+      <text x="45" y="36" text-anchor="middle" fill="#FEF3C7" font-size="15" font-weight="700">Client</text>
+      <text x="45" y="58" text-anchor="middle" fill="#94A3B8" font-size="12">Delivery</text>
+    </g>
+  </g>
+
+  <path d="M185 220H215" stroke="#38BDF8" stroke-width="3" marker-end="url(#arrow)"/>
+  <path d="M355 220H385" stroke="#38BDF8" stroke-width="3" marker-end="url(#arrow)"/>
+  <path d="M525 220H555" stroke="#38BDF8" stroke-width="3" marker-end="url(#arrow)"/>
+  <path d="M695 220H725" stroke="#38BDF8" stroke-width="3" marker-end="url(#arrow)"/>
+  <path d="M865 220H895" stroke="#38BDF8" stroke-width="3" marker-end="url(#arrow)"/>
+  <path d="M1035 220H1065" stroke="#38BDF8" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <g font-family="Inter, Segoe UI, Arial">
+    <rect x="180" y="315" width="840" height="52" rx="18" fill="#082F49" stroke="#38BDF8" opacity="0.9"/>
+    <text x="600" y="347" text-anchor="middle" fill="#E0F2FE" font-size="14" font-weight="700">Rejection Rate · Defect Trends · Grading Distribution · Packing Performance · Client Destination</text>
+  </g>
+</svg>
