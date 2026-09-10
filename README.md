@@ -1,9 +1,7 @@
 <div align="center">
-  <img src="./ChatGPT Image Sep 10, 2026, 05_40_06 PM.png" alt="Hamza Bakh — Data Engineering, Analytics and BI" width="100%" />
-
   # Hamza Bakh
 
-  **Data Engineer · Analytics Engineer · BI & AI Systems**
+  **Data Engineer · Analytics Engineer · BI Systems**
 
   I build governed data platforms and decision-ready products—from ingestion and modeling to executive analytics.
 
@@ -17,7 +15,7 @@
 My work connects operational systems to reliable analytics:
 
 ```text
-Source systems → ingestion → governed models → semantic metrics → BI / AI products → decisions
+Source systems → ingestion → governed models → semantic metrics → BI products → decisions
 ```
 
 I focus on traceable business logic, tested transformations, practical automation, and clear communication between technical and business teams.
@@ -41,13 +39,11 @@ flowchart LR
     Sources[Operational systems and documents] --> Platform[Data platform engineering]
     Platform --> Models[Governed business models]
     Models --> BI[BI and semantic metrics]
-    Models --> AI[AI-enabled data products]
 
     BI --> Finora[Finora finance intelligence]
     Platform --> Azure[Azure real estate data platform]
     BI --> Quality[Quality and agricultural analytics]
     Models --> MultiTenant[Multi-tenant analytics]
-    AI --> Documents[Document intelligence and semantic search]
 
     Product[Product engineering] --> Iron[IRON CORE OS]
     Product --> Courtline[Courtline]
@@ -63,7 +59,7 @@ flowchart LR
 | Analytics engineering | dbt-style modeling, dimensional design, tests, documentation, semantic layers |
 | Warehousing | Snowflake, SQL Server, PostgreSQL, MySQL |
 | BI and finance analytics | Power BI, Metabase, DAX, Power Query, KPI design, budget vs actual |
-| AI and automation | OCR, Tesseract, embeddings, RAG patterns, FastAPI, scikit-learn |
+| Automation | Python services, APIs, FastAPI, scheduled workflows and process controls |
 | Product systems | React, TypeScript, Next.js, local-first architecture, interactive prototypes |
 
 ## Engineering principles
@@ -71,14 +67,14 @@ flowchart LR
 - Define source contracts and metric ownership before dashboard design.
 - Keep raw, cleaned, core, and consumption layers explicit.
 - Make quality checks, lineage, and reconciliation part of the delivery path.
-- Separate deterministic calculations from AI-generated explanations.
+- Separate deterministic calculations from narrative reporting.
 - Design every system around a real business decision and measurable outcome.
 
 ## Current focus
 
 - Production-grade portfolio projects in data engineering and analytics engineering.
 - Advanced SQL, orchestration, Snowflake, semantic modeling, and data quality.
-- Finance, agricultural operations, embedded BI, and AI-ready data products.
+- Finance, agricultural operations, embedded BI, and governed data products.
 
 ## Contact
 
