@@ -53,9 +53,7 @@ flowchart LR
     Product --> Courtline[Courtline]
 ```
 
-### Reference data-platform pattern
 
-<img src="./assets/data-platform-architecture.svg" alt="Multi-tenant data platform architecture" width="100%" />
 
 ## Core capabilities
 
