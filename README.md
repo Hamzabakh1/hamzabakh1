@@ -1,8 +1,6 @@
 <div align="center">
+   <img src="./hamzabakh.png" alt="Hamza Bakh — Data Engineering, Analytics and BI" width="100%" />
   # Hamza Bakh
-
-  **Data Engineer · Analytics Engineer · BI Systems**
-
   I build governed data platforms and decision-ready products—from ingestion and modeling to executive analytics.
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza%20Bakh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-bakh/)
