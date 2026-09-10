@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero-banner.svg" alt="Hamza Bakh — Data Engineering, Analytics and BI" width="100%" />
+  <img src="./ChatGPT Image Sep 10, 2026, 05_40_06 PM.png" alt="Hamza Bakh — Data Engineering, Analytics and BI" width="100%" />
 
   # Hamza Bakh
 
