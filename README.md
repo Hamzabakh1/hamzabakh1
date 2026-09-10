@@ -26,6 +26,7 @@ I focus on traceable business logic, tested transformations, practical automatio
 
 | Project | Focus | Maturity |
 |---|---|---|
+| [Azure Real Estate Data Platform](https://github.com/Hamzabakh1/azure-real-estate-data-platform) | Azure Data Factory orchestration, Bronze/Silver/Gold contracts, quality gates, Azure SQL marts, and Power BI analytics | End-to-end cloud data engineering project |
 | [Multi-Tenant Data Warehouse](https://github.com/Hamzabakh1/multi-tenant-data-warehouse-saas-bi) | Tenant-isolated ingestion, warehouse modeling, and embedded BI | Data architecture case study |
 | [ETL + Metabase PFE](https://github.com/Hamzabakh1/PRJ_ETL_METABASE_PFE1) | Python ETL pipelines and analytics delivery | Implemented project |
 | [Automated Validation Framework](https://github.com/Hamzabakh1/python-automated-validation-framework) | Reusable Python validation and data-quality checks | Implemented framework |
@@ -43,6 +44,7 @@ flowchart LR
     Models --> AI[AI-enabled data products]
 
     BI --> Finora[Finora finance intelligence]
+    Platform --> Azure[Azure real estate data platform]
     BI --> Quality[Quality and agricultural analytics]
     Models --> MultiTenant[Multi-tenant analytics]
     AI --> Documents[Document intelligence and semantic search]
