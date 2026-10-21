@@ -54,7 +54,6 @@ flowchart LR
 | [ETL + Metabase Analytics](https://github.com/Hamzabakh1/PRJ_ETL_METABASE_PFE1) | Delivers a Python ETL workflow and analytics-ready tables for operational reporting | Implemented transformations and Metabase delivery structure |
 | [Finora Financial Intelligence](https://github.com/Hamzabakh1/finora-financial-intelligence) | Finance-oriented platform blueprint with regional policy packs and executive analytics | Product and system architecture case study |
 | [IRON CORE OS](https://github.com/Hamzabakh1/iron-core-os) | Connects projects, tasks, skills, KPIs and work sessions in a local-first execution system | Working application prototype and linked operating model |
-| [Courtline](https://github.com/Hamzabakh1/courtline-padel-community) | Mobile-first padel matchmaking and community experience | Interactive front-end prototype |
 
 ## Private enterprise labs
 
